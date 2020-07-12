@@ -1,8 +1,0 @@
-start bob74_ipl
-start esx_nightclubaddon-master
-start Peds-master
-
-Pek ellemen gereken birşey olduğunu düşünmüyorum, Pedler; sadece club içindekiler açık. Diğerleri "false".
-Teşekkür <3
-
-Blip Gerekiyor. Blip ismi "Black Club"
